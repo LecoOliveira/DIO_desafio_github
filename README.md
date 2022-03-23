@@ -23,6 +23,6 @@ Nesse repositório, aplico os conhecimentos adiquiridos nas aulas sobre git/gith
 
 ## Coclusão
 
-Com esse mini curso, já consegui ter uma clareza muito grande sobre o que essas ferramentas junta representam para o desenvolvivemnto.
-E mesmo com esse pequeno projeto, já saí do zero, e consegui internalizar conceitos e comandos que pareciam "bichos de 7 cabeças". :smile: :partying_face:
+Com esse mini curso, já consegui ter uma clareza muito grande sobre o que essas ferramentas juntas representam para o desenvolvivemnto.
+E mesmo com esse pequeno projeto, já saí do zero, e consegui internalizar conceitos e comandos que pareciam "bichos de 7 cabeças" para mim. :smile: :partying_face:
  	
