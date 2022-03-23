@@ -3,7 +3,7 @@
 
 Nesse repositório, aplico os conhecimentos adiquiridos nas aulas sobre git/github.
 
-### Tais como:
+#### Tais como:
 
 > - Criar um repositório no github
 >
