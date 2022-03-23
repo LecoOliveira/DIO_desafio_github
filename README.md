@@ -9,13 +9,13 @@ Nesse repositório, aplico os conhecimentos adiquiridos nas aulas sobre git/gith
 >
 > - Clonar esse repositório para meu diretório local
 >  
->   ``` sudo git clone git@github.com:LecoOliveira/... ```
+>     ```"sudo git clone git@github.com:LecoOliveira/..." ```
 >
 > - Editar o arquivo **README.md**
 >
 > - Adicionar, commitar e empurrar o arquivo de volta para o repositório no github:  
 >
->   ``` git add *; git commit -m "Modificação do arquivo README"; git push origin main ```
+>       git add *; git commit -m "Modificação do arquivo README"; git push origin main
 >
 > - E por fim, verificar o a mudança feita no meu repositório no github:
 >  [**Meu Repositório**](https://github.com/LecoOliveira/DIO_desafio_github "Clique para acessar")
