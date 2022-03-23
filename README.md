@@ -17,7 +17,7 @@ Nesse repositório, aplico os conhecimentos adiquiridos nas aulas sobre git/gith
 >
 >       git add *; git commit -m "Modificação do arquivo README"; git push origin main
 >
-> - E por fim, verificar o a mudança feita no meu repositório no github:
+> - E por fim, verificar a mudança feita no meu repositório no github:
 >  [**Meu Repositório**](https://github.com/LecoOliveira/DIO_desafio_github "Clique para acessar")
 
 
