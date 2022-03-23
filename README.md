@@ -21,7 +21,7 @@ Nesse repositório, aplico os conhecimentos adiquiridos nas aulas sobre git/gith
 >  [**Meu Repositório**](https://github.com/LecoOliveira/DIO_desafio_github "Clique para acessar")
 
 
-## Coclusão
+## Conclusão
 
 Com esse mini curso, já consegui ter uma clareza muito grande sobre o que essas ferramentas juntas representam para o desenvolvivemnto.
 E mesmo com esse pequeno projeto, já saí do zero, e consegui internalizar conceitos e comandos que pareciam "bichos de 7 cabeças" para mim. :smile: :partying_face: :rocket:
