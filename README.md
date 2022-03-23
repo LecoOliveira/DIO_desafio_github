@@ -1,4 +1,4 @@
-# Desafio de github da __**DIO**__
+# Desafio de github da _**DIO**_
 ## Primeiro Repositório
 
 Nesse repositório, aplico os conhecimentos adiquiridos nas aulas sobre git/github.
